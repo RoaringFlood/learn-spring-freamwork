@@ -23,7 +23,7 @@ public class App02HelloWorldSpring {
 		System.out.println(context.getBean("person4Qualifier"));
 		
 		System.out.println(context.getBean("adres"));
-		System.out.println(context.getBean("adres2"));
+		System.out.println(context.getBean("adres2")); //deneme
 		System.out.println(context.getBean(Address.class));
 		
 		//Springin kontrol ettiği tüm bean leri listeler
