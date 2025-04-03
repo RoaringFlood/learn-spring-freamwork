@@ -1,4 +1,4 @@
-package com.yalciny.learn_spring_freamwork;
+package com.yalciny.learn_spring_freamwork.helloworld;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
